@@ -1,0 +1,5 @@
+23:28:25.103 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[tomsmit, SuperSecretPassword!]
+23:28:46.470 [main] ERROR herokuapp.core.TestBase -- FAILD: loginNegativeTestScreenshot path: C:\QA\HerokuappHW\test_screenshots\screen - 1746912526449.png
+23:28:46.471 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:28:46.471 [main] INFO  herokuapp.core.TestBase -- =================================
+23:28:49.305 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[tomsmith, SuperSecretPassword]

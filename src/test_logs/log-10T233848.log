@@ -1,0 +1,20 @@
+23:38:52.411 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[tomsmit, SuperSecretPassword!]
+23:38:53.624 [main] INFO  herokuapp.core.TestBase -- PASSED: loginNegativeTest
+23:38:53.625 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:38:53.626 [main] INFO  herokuapp.core.TestBase -- =================================
+23:38:56.564 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[tomsmith, SuperSecretPassword]
+23:38:58.166 [main] INFO  herokuapp.core.TestBase -- PASSED: loginNegativeTest
+23:38:58.166 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:38:58.166 [main] INFO  herokuapp.core.TestBase -- =================================
+23:39:00.644 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[, SuperSecretPassword!]
+23:39:01.766 [main] INFO  herokuapp.core.TestBase -- PASSED: loginNegativeTest
+23:39:01.766 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:39:01.767 [main] INFO  herokuapp.core.TestBase -- =================================
+23:39:04.340 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[tomsmith, ]
+23:39:05.443 [main] INFO  herokuapp.core.TestBase -- PASSED: loginNegativeTest
+23:39:05.443 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:39:05.443 [main] INFO  herokuapp.core.TestBase -- =================================
+23:39:07.910 [main] INFO  herokuapp.core.TestBase -- Start test: loginNegativeTest[, ]
+23:39:09.122 [main] INFO  herokuapp.core.TestBase -- PASSED: loginNegativeTest
+23:39:09.122 [main] INFO  herokuapp.core.TestBase -- Stop test
+23:39:09.122 [main] INFO  herokuapp.core.TestBase -- =================================
