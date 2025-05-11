@@ -1,0 +1,10 @@
+10:51:07.576 [main] INFO  herokuapp.core.ApplicationManager -- Test start in Chrome browser
+10:51:09.512 [main] INFO  herokuapp.core.ApplicationManager -- Current URL -> https://the-internet.herokuapp.com/
+10:51:09.512 [main] INFO  herokuapp.core.TestBase -- Start test: jsAlertTest[]
+10:51:09.539 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.cssSelector: a[href='/javascript_alerts']
+10:51:09.539 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+10:51:09.568 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.cssSelector: a[href='/javascript_alerts']
+10:51:09.569 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+10:51:09.820 [main] INFO  herokuapp.core.TestBase -- PASSED: jsAlertTest
+10:51:09.820 [main] INFO  herokuapp.core.TestBase -- Stop test
+10:51:09.821 [main] INFO  herokuapp.core.TestBase -- =================================

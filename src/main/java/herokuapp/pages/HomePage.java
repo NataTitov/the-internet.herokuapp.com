@@ -19,4 +19,12 @@ public class HomePage extends BasePage {
 
 
     }
+
+    @FindBy(css = "a[href='/javascript_alerts']")
+    WebElement javaScriptAlertsLink;
+
+    public HomePage selectJavaScriptAlertsLink() {
+        click(javaScriptAlertsLink);
+        return this;
+    }
 }

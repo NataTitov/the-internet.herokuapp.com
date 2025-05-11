@@ -1,0 +1,62 @@
+11:34:22.964 [main] INFO  herokuapp.core.ApplicationManager -- Test start in Chrome browser
+11:34:24.902 [main] INFO  herokuapp.core.ApplicationManager -- Current URL -> https://the-internet.herokuapp.com/
+11:34:24.916 [main] INFO  herokuapp.core.TestBase -- Start test: jsPromptClickOkWithTextTest[]
+11:34:24.940 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.cssSelector: a[href='/javascript_alerts']
+11:34:24.940 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:24.966 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.cssSelector: a[href='/javascript_alerts']
+11:34:24.966 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.273 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.cssSelector: button[onclick='jsPrompt()']
+11:34:25.273 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.282 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.cssSelector: button[onclick='jsPrompt()']
+11:34:25.282 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.398 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:25.398 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.414 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:25.414 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.937 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:25.937 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:25.937 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:25.937 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:26.466 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:26.466 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:26.466 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:26.466 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:26.987 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:26.987 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:27.002 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:27.002 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:27.515 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:27.515 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:27.515 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:27.515 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:28.035 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:28.035 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:28.035 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:28.035 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:28.556 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:28.556 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:28.556 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:28.556 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:29.083 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:29.083 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:29.083 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:29.083 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:29.604 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:29.604 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:29.604 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:29.620 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.131 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:30.131 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.147 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:30.147 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.684 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:30.684 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.699 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:30.699 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.710 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: result
+11:34:30.710 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.725 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: result
+11:34:30.725 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+11:34:30.922 [main] ERROR herokuapp.core.TestBase -- FAILD: jsPromptClickOkWithTextTestScreenshot path: C:\QA\HerokuappHW\test_screenshots\screen - 1746956070893.png
+11:34:30.922 [main] INFO  herokuapp.core.TestBase -- Stop test
+11:34:30.923 [main] INFO  herokuapp.core.TestBase -- =================================
