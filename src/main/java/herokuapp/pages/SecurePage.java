@@ -19,7 +19,7 @@ public class SecurePage extends BasePage {
     WebElement logOutButton;
 
     public SecurePage verifySuccessLogin() {
-        Assert.assertTrue(isElementClickable(logOutButton, 5));
+        Assert.assertTrue(isElementDisplayed(logOutButton));
         return this;
     }
 

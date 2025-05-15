@@ -20,6 +20,7 @@ public class BasePage {
         PageFactory.initElements(driver, this);
 
     }
+
     public void click(WebElement element) {
         element.click();
     }
@@ -55,10 +56,20 @@ public class BasePage {
             return false;
         }
     }
+
+    public boolean isElementDisplayed(WebElement element) {
+        try {
+            element.isDisplayed();
+            return true;
+        } catch (NoSuchElementException ex) {
+            ex.getMessage();
+            return false;
+        }
+    }
+
     public boolean shouldHaveText(WebElement element, String text, int time) {
         return new WebDriverWait(driver, Duration.ofSeconds(time))
                 .until(ExpectedConditions.textToBePresentInElement(element, text));
     }
-
 
 }

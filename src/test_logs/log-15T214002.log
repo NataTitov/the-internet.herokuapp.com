@@ -1,0 +1,18 @@
+21:40:06.147 [main] INFO  herokuapp.core.ApplicationManager -- Test start in Chrome browser
+21:40:08.189 [main] INFO  herokuapp.core.ApplicationManager -- Current URL -> https://the-internet.herokuapp.com/
+21:40:08.196 [main] INFO  herokuapp.core.TestBase -- Start test: contextMenuTest[]
+21:40:08.216 [main] INFO  herokuapp.utils.MyListener -- The locator will find -> By.cssSelector: a[href='/context_menu']
+21:40:08.216 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.247 [main] INFO  herokuapp.utils.MyListener -- The locator is -> By.cssSelector: a[href='/context_menu']
+21:40:08.248 [main] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.516 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: hot-spot
+21:40:08.517 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.533 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: hot-spot
+21:40:08.533 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.668 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- The locator will find -> By.id: hot-spot
+21:40:08.668 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.679 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- The locator is -> By.id: hot-spot
+21:40:08.679 [Forwarding actions on session 5936b5c149a59f47f39346649d6ffdb5 to remote] INFO  herokuapp.utils.MyListener -- ==========================================
+21:40:08.856 [main] INFO  herokuapp.core.TestBase -- PASSED: contextMenuTest
+21:40:08.857 [main] INFO  herokuapp.core.TestBase -- Stop test
+21:40:08.859 [main] INFO  herokuapp.core.TestBase -- =================================
